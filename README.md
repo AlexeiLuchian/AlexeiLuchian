@@ -1,25 +1,5 @@
 <div align="center">
 
-```
- █████╗ ██╗     ███████╗██╗  ██╗███████╗██╗
-██╔══██╗██║     ██╔════╝╚██╗██╔╝██╔════╝██║
-███████║██║     █████╗   ╚███╔╝ █████╗  ██║
-██╔══██║██║     ██╔══╝   ██╔██╗ ██╔══╝  ██║
-██║  ██║███████╗███████╗██╔╝ ██╗███████╗██║
-╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝
-
-██╗      ██╗   ██╗ ██████╗██╗  ██╗██╗ █████╗ ███╗   ██╗
-██║      ██║   ██║██╔════╝██║  ██║██║██╔══██╗████╗  ██║
-██║      ██║   ██║██║     ███████║██║███████║██╔██╗ ██║
-██║      ██║   ██║██║     ██╔══██║██║██╔══██║██║╚██╗██║
-███████╗ ╚██████╔╝╚██████╗██║  ██║██║██║  ██║██║ ╚████║
-╚══════╝  ╚═════╝  ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
-```
-
-</div>
-
-<div align="center">
-
 ### `> whoami`
 
 **Computer Science student building tech to understand how things work.**  
@@ -57,31 +37,6 @@ pytest        ██░░░░░░░░  wrote an automated test suite
 Cybersecurity   — actively learning, building intuition
 Networking      — fundamentals
 ```
-
-## `$ ls projects/`
-
-### [Jobiffy](https://job-tracker-beryl-nine.vercel.app/login-page) — *AI Job Application Tracker*
-> Python · Flask · Groq API · REST
-
-Job hunting is chaotic. Built a tracker that connects to the Groq API to automatically extract required skills from job listings — so you know exactly what gap you're closing.  
-`[Live]`
-
-### [Anime ML Recommender](https://alexeiluchian-anime-recommender.streamlit.app/) — *Content-Based Recommendation Engine*
-> Python · Scikit-learn · Pandas · Streamlit · Web Scraping
-
-Scraped and cleaned 18,000+ entries, then built a cosine similarity engine on top. Suggests anime based on user preferences. My first proper ML pipeline end-to-end.  
-`[Live]`
-
-### [VNL AI Tournament Simulator](https://ai-match-predictor.streamlit.app/) — *Sports ML + Explainability*
-> Python · XGBoost · SHAP · HuggingFace · Streamlit
-
-Trained on real VNL player stats. Simulates full tournaments — group stages, knockouts — and uses SHAP to explain *why* a team won, then writes a natural language match analysis via a HuggingFace model.  
-`[Live]`
-
-### [E-commerce Test Automation Suite](https://github.com/AlexeiLuchian/ecommerce-test-automation) — *QA Automation*
-> Python · Selenium · pytest
-
-Automated test suite targeting Dr.Max pharmacy. Covers search, cart operations, and navigation flows. Built to simulate real user behaviour, not just check buttons.
 
 ## `$ cat upcoming.txt`
 
